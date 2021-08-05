@@ -1,0 +1,81 @@
+.barIconArmour{
+	display:block;
+	width: calc(12.5% - 4px - 4px);
+	height: 12.5px;
+	padding-top: 5px;
+	position: absolute;
+	z-index: 99;
+	/* padding: 5px; */
+	bottom: 20%;
+    left: -9%;
+}
+#varArmour {
+	width: 15.228426396%;
+	position: absolute;
+	bottom: 6%;
+    left: 42.4%;
+
+	border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+#boxSetArmour{
+	background-color:black;
+	width: 100%;
+	height: 15px;
+	background-image:linear-gradient(45deg,#0084ff,#0084ff);
+	position: relative;
+	bottom: 0;
+	z-index: 97;
+
+}
+
+.bararmour {
+	/* background-color: rgba(0, 0, 0, 0.4); */
+	width: calc(12.5% - 4px - 4px);
+	height: 15px;
+	float: left;
+	/* padding: 2px; */
+    z-index: 98;
+
+}
+
+
+.barIconHealth{
+	display:block;
+	width: calc(12.5% - 4px - 4px);
+	height: 12.5px;
+	padding-top: 5px;
+	position: absolute;
+	z-index: 99;
+	/* padding: 5px; */
+	bottom: 20%;
+    left: -9%;
+}
+#varHealth {
+	width: 15.228426396%;
+	position: absolute;
+	bottom: 4%;
+    left: 42.4%;
+	border: 1px solid rgba(0, 0, 0, 0.4);
+
+}
+
+#boxsetHealth{
+	background-color:black;
+	width: 100%;
+	height: 15px;
+	background-image:linear-gradient(45deg,#007c25,#007c25);
+	position: relative;
+	bottom: 0;
+	z-index: 97;
+
+}
+
+.barhealth {
+	width: calc(12.5% - 4px - 4px);
+	height: 15px;
+	float: left;
+    z-index: 98;
+}
+
+
